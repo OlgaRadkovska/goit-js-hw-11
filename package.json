@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Agnieszkaa86/goit-js-hw2-11"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Agnieszka Janowska <agnieszka.janowska86@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Agnieszkaa86/goit-js-hw2-1/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "axios": "^1.1.3",
